@@ -1,0 +1,59 @@
+
+******** Produs Software ********
+
+Pret: 60
+
+********  Modul Hardware ********
+
+Piese:
+
+Numar piese: 3
+
+Piesa 1
+Cod: 111111
+Pret: 40
+
+Piesa 2
+Cod: 222222
+Pret: 50
+
+Piesa 3
+Cod: 333333
+Pret: 60
+
+Pret manopera: 20
+Numar ore: 5
+
+******** Produs mixt ********
+
+******** Produs Software ********
+
+Pret: 20
+
+********  Modul Hardware ********
+
+Piese:
+
+Numar piese: 3
+
+Piesa 1
+Cod: 111111
+Pret: 40
+
+Piesa 2
+Cod: 222222
+Pret: 50
+
+Piesa 3
+Cod: 333333
+Pret: 60
+
+Pret manopera: 20
+Numar ore: 5
+
+Numar functionalitati: 2
+
+Functionalitati:
+ppppp
+lllll
+
